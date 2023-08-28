@@ -108,5 +108,335 @@
             "State & Component"
         ],
         "answer": "State & Props"
+    },
+    {
+        "id": "11",
+        "question" : "What is ReactJS?",
+        "options": [
+            "Server-Side Framework",
+            "User Interface Framework",
+            "Both A and B.",
+            "None of the above."
+        ],
+        "answer": "User Interface Framework"
+    },
+    {
+        "id": "12",
+        "question" : "Identify the one which is used to pass data to components from outside",
+        "options": [
+            "Render with arguments",
+            "setState",
+            "PropTypes",
+            "props"
+        ],
+        "answer": "props"
+    },
+    {
+        "id": "13",
+        "question" : "Who created React.js?",
+        "options": [
+            "Jordan Mike",
+            "Jordan Walke",
+            "Tim Lee",
+            "Jordan Lee"
+        ],
+        "answer": "Jordan Walke"
+    },
+    {
+        "id": "14",
+        "question" : "In which language is React.js written?",
+        "options": [
+            "Python",
+            "JavaScript",
+            "Java",
+            "PHP"
+        ],
+        "answer": "JavaScript"
+    },
+    {
+        "id": "15",
+        "question" : "What is Babel?",
+        "options": [
+            "JavaScript Compiler",
+            "JavaScript Interpreter",
+            "JavaScript Transpiler",
+            "None of the above."
+        ],
+        "answer": "JavaScript Compiler"
+    },
+    {
+        "id": "16",
+        "question" : "What are arbitrary inputs of components in react also known as?",
+        "options": [
+            "Elements",
+            "Props",
+            "Keys",
+            "Ref"
+        ],
+        "answer": "Props"
+    },
+    {
+        "id": "17",
+        "question" : "In MVC, what does React.js act as?",
+        "options": [
+            "Model",
+            "Controller",
+            "View",
+            "Middleware"
+        ],
+        "answer": "View"
+    },
+    {
+        "id": "18",
+        "question" : "Among The following options, choose the one which helps react for keeping their data uni-directional?",
+        "options": [
+            "DOM",
+            "Flux",
+            "JSX",
+            "Props"
+        ],
+        "answer": "Flux"
+    },
+    {
+        "id": "19",
+        "question" : "Using which of the following command can prevent default behaviour at in react?",
+        "options": [
+            "preventDefault()",
+            "avoidDefault()",
+            "revokeDefault",
+            "None of the above."
+        ],
+        "answer": "preventDefault()"
+    },
+    {
+        "id": "20",
+        "question" : "Identify the smallest building block of React.JS?",
+        "options": [
+            "Props",
+            "Elements",
+            "Components",
+            "None of the above."
+        ],
+        "answer": "Components"
+    },
+    {
+        "id": "21",
+        "question" : "Total ways of defining variables in ES6 is?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "3"
+    },
+    {
+        "id": "22",
+        "question" : "Among the corner which is a must-have for every ReactJS component?",
+        "options": [
+            "renderComponent",
+            "SetInitialComponent",
+            "Render",
+            "All of the above"
+        ],
+        "answer": "renderComponent"
+    },
+    {
+        "id": "23",
+        "question" : "Choose the method with refers to the parent class in ReactJS?",
+        "options": [
+            "this()",
+            "Super()",
+            "iniherits()",
+            "self()"
+        ],
+        "answer": "Super()"
+    },
+    {
+        "id": "24",
+        "question" : "The function which is called to render HTML to a web page in react?",
+        "options": [
+            "ReactDOM_render()",
+            "render()",
+            "render_DOM()",
+            "DOM_HTML()"
+        ],
+        "answer": "render()"
+    },
+    {
+        "id": "25",
+        "question" : "Choose the functionality of setState?",
+        "options": [
+            "Access the previous state before the setState operation.",
+            "Invoke code after teh setState operation is done.",
+            "Replace this date completely instead of teh default merge action",
+            "None of the above."
+        ],
+        "answer": "Invoke code after teh setState operation is done."
+    },
+    {
+        "id": "26",
+        "question" : "Choose the method which is not a part of ReactDOM?",
+        "options": [
+            "ReactDOM.createPortal()",
+            "ReactDOM.hydrate()",
+            "ReactDOM.destroy()",
+            "ReactDOM.findDOMNode()"
+        ],
+        "answer": "ReactDOM.destroy()"
+    },
+    {
+        "id": "27",
+        "question" : "Choose the correct statement in the context of uncontrolled components in ReactJS?",
+        "options": [
+            "Source of truth can be anything",
+            "Source of truth is a component state",
+            "Source of truth is DOM",
+            "None of the above."
+        ],
+        "answer": "Source of truth is DOM"
+    },
+    {
+        "id": "28",
+        "question" : "In react, the key should be?",
+        "options": [
+            "Unique among his siblings only",
+            "Unique in the DOM",
+            "Does not requires to be unique",
+            "All of the above"
+        ],
+        "answer": "Unique among his siblings only"
+    },
+    {
+        "id": "29",
+        "question" : "Which company developed ReactJS?",
+        "options": [
+            "Apple",
+            "Facebook",
+            "Google",
+            "Twitter"
+        ],
+        "answer": "Facebook"
+    },
+    {
+        "id": "30",
+        "question" : "Choose the component which should be overridden to stop the component from updating?",
+        "options": [
+            "componentDidUpdate",
+            "componentDidMount",
+            "willComponentUpdate",
+            "shouldComponentUpdate"
+        ],
+        "answer": "shouldComponentUpdate"
+    },
+    {
+        "id": "31",
+        "question" : "Which of the following is used to access a function fetch()  from h1 element in JSX?",
+        "options": [
+            "<h1>${fetch()}</h1>",
+            "<h1>{fetch}</h1>",
+            "<h1>${fetch}</h1>",
+            "<h1>{fetch()}</h1>"
+        ],
+        "answer": "<h1>{fetch()}</h1>"
+    },
+    {
+        "id": "32",
+        "question" : "When setState()  is called inside render() method, which of the following events takes place?",
+        "options": [
+            "Duplicate key error",
+            "Repetitive output happiness on the screen",
+            "Nothing happens",
+            "Stackoverflow error"
+        ],
+        "answer": "Stackoverflow error"
+    },
+    {
+        "id": "33",
+        "question" : "What happens if you render an input element with disabled = {false}?",
+        "options": [
+            "It will be rendered as enabled",
+            "It will be rendered as disabled",
+            "it will not be rendered at all",
+            "None of the above."
+        ],
+        "answer": "It will be rendered as enabled"
+    },
+    {
+        "id": "34",
+        "question" : "When is useReducer used over useState in React component?",
+        "options": [
+            "When we want to replace redux",
+            "When we want to break our production app",
+            "When we want to improve performance",
+            "None of the above."
+        ],
+        "answer": "When we want to replace redux"
+    },
+    {
+        "id": "35",
+        "question" : "React is a ___________",
+        "options": [
+            "JavaScript Framework",
+            "JavaScript library",
+            "both a and b",
+            "None of the above."
+        ],
+        "answer": "JavaScript library"
+    },
+    {
+        "id": "36",
+        "question" : "Choose the library which is most often associated with react?",
+        "options": [
+            "Sinon",
+            "Chai",
+            "Jest",
+            "Mocha"
+        ],
+        "answer": "Jest"
+    },
+    {
+        "id": "37",
+        "question" : "What is used to handle code-splitting?",
+        "options": [
+            "React.lazy",
+            "React.memo",
+            "React.fallback",
+            "React.split"
+        ],
+        "answer": "React.lazy"
+    },
+    {
+        "id": "38",
+        "question" : "Why is useLayoutEffect used?",
+        "options": [
+            "To complete the update",
+            "To optimize for all devices",
+            "To change the layout of the screen",
+            "When you need the browser to paint before the effectors"
+        ],
+        "answer": "When you need the browser to paint before the effectors"
+    },
+    {
+        "id": "39",
+        "question" : "Which of the following terms commonly described react applications?",
+        "options": [
+            "Imperative",
+            "Integrated",
+            "Declarative",
+            "Closed"
+        ],
+        "answer": "Declarative"
+    },
+    {
+        "id": "40",
+        "question" : "Why is ref used?",
+        "options": [
+            "To bind the function",
+            "To call a function",
+            "To directly access teh DOM node",
+            "To refer to another JS file"
+        ],
+        "answer": "To directly access teh DOM node"
     }
 ]

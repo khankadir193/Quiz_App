@@ -3,7 +3,7 @@ import React from 'react';
 const Quiz = ({ showQuiz, question, quizs, checkAnswer, correctAnswer, selectedAnswer, questionIndex, nextQuestion, showTheResult }) => {
 
     return (
-        <section className="bg-dark text-white" style={{ display: `${showQuiz ? 'block' : 'none'}` }}>
+        <section className="bg-dark text-white custom-quiz-img" style={{ display: `${showQuiz ? 'block' : 'none'}` }}>
             <div className="container">
                 <div className="row vh-100 align-items-center justify-content-center">
                     <div className="col-lg-8">

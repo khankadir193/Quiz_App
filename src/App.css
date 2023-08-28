@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-bg-color {
+  /* background-color: darkslategrey !important; */
+  background-image: url('https://fuzzy.fish/wp-content/uploads/2022/07/react-test-drive-development-.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.custom-quiz-img {
+  /* background-color: darkslategrey !important; */
+  background-image: url('https://thumbs.dreamstime.com/z/its-quiz-time-text-wooden-cubes-177037660.jpg?w=992');
+  background-size: cover;
+  /* background-position: center; */
+  background-repeat: no-repeat;
+}
+
+.custom-quiz-img-result {
+  /* background-color: darkslategrey !important; */
+  background-image: url('https://thumbs.dreamstime.com/z/digital-marketing-content-planning-advertising-strategy-concept-139681214.jpg?w=2048');
+  background-size: cover;
+  /* background-position: center; */
+  background-repeat: no-repeat;
+}

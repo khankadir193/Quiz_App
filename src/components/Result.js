@@ -2,7 +2,7 @@ import React from 'react';
 
 const Result = ({ showResult, quizs, marks, startOver }) => {
     return (
-        <section className="bg-dark text-white" style={{ display: `${showResult ? 'block' : 'none'}` }}>
+        <section className="bg-dark text-white custom-quiz-img-result" style={{ display: `${showResult ? 'block' : 'none'}` }}>
             <div className="container">
                 <div className="row vh-100 align-items-center justify-content-center">
                     <div className="col-lg-6">
